@@ -1,4 +1,4 @@
-# Coffee-Sales
+# ☕ Coffee-Sales
 
 <img src="https://github.com/Omgadakhgithub/Starbucks-Coffee-Sales/blob/f25ee052bf0c6e45ca791597016e0f4637285cc2/photo-1495474472287-4d71bcdd2085.jpg" width="1000" height="500"/>
 
